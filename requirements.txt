@@ -1,0 +1,4 @@
+Django
+requests
+geoip2
+user-agents
